@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/JavaChallenge.iml" filepath="$PROJECT_DIR$/JavaChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pure_java_development/hashcode_and_equals/hashcode_and_equals.iml" filepath="$PROJECT_DIR$/pure_java_development/hashcode_and_equals/hashcode_and_equals.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pure_java_development/pure_java_development.iml" filepath="$PROJECT_DIR$/pure_java_development/pure_java_development.iml" />
+    </modules>
+  </component>
+</project>
