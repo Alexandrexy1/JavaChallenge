@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/JavaChallenge.iml" filepath="$PROJECT_DIR$/JavaChallenge.iml" />
       <module fileurl="file://$PROJECT_DIR$/pure_java_development/hashcode_and_equals/hashcode_and_equals.iml" filepath="$PROJECT_DIR$/pure_java_development/hashcode_and_equals/hashcode_and_equals.iml" />
       <module fileurl="file://$PROJECT_DIR$/pure_java_development/pure_java_development.iml" filepath="$PROJECT_DIR$/pure_java_development/pure_java_development.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pure_java_development/set_list/set_list.iml" filepath="$PROJECT_DIR$/pure_java_development/set_list/set_list.iml" />
     </modules>
   </component>
 </project>
