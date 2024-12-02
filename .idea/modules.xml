@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaChallenge.iml" filepath="$PROJECT_DIR$/JavaChallenge.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pure_java_development/ex_file_map/ex_file_map.iml" filepath="$PROJECT_DIR$/pure_java_development/ex_file_map/ex_file_map.iml" />
       <module fileurl="file://$PROJECT_DIR$/pure_java_development/file_reader/file_reader.iml" filepath="$PROJECT_DIR$/pure_java_development/file_reader/file_reader.iml" />
       <module fileurl="file://$PROJECT_DIR$/pure_java_development/file_writer/file_writer.iml" filepath="$PROJECT_DIR$/pure_java_development/file_writer/file_writer.iml" />
       <module fileurl="file://$PROJECT_DIR$/pure_java_development/hashcode_and_equals/hashcode_and_equals.iml" filepath="$PROJECT_DIR$/pure_java_development/hashcode_and_equals/hashcode_and_equals.iml" />
